@@ -1,2 +1,2 @@
 # SwatchParty
-Explore 287 fountain pen ink swatches
+Explore nearly 300 fountain pen ink swatches
