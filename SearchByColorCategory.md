@@ -80,7 +80,7 @@
 |Gray/Black            |[Moonbeam](SearchSwatches/233.png)                                 |Diamine|233           |
 |Gray/Black            |[Onyx](SearchSwatches/13.png)                                     |Pelikan Edelstein|13            |
 |Gray/Black            |[Onyx Black](SearchSwatches/21.png)                               |Diamine|21            |
-|Gray/Black            |[Pebble Stone](SearchSwatches/1.png)                             |Octopus Fluids|1             |
+|Gray/Black            |[Pebble Stone]({% file src="../../.gitbook/assets/1 (3).png" %})                             |Octopus Fluids|1             |
 |Gray/Black            |[Perle Noire](SearchSwatches/16.png)                             |Herbin|16            |
 |Gray/Black            |[Rays of Light](SearchSwatches/198.png)                            |Tono & Lims|198           |
 |Gray/Black            |[Silver Grey](SearchSwatches/6.png)                              |De Atramentis|6             |
