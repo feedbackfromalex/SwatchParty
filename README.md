@@ -16,7 +16,7 @@ All the swatches included in this project were made on Col-o-ring swatch cards, 
 * [San Francisco Bay](SearchSwatches/167.png)
 * [Viceroy Butterfly Orange](SearchSwatches/64.png)
 
-I used dip pens (Sailor Hocoro and Kakimori with a stainless steel nib) and painbrushes (Dynasty Black Silver and some random cheap plastic brushes from Flax) to create the swatches. I scanned the images on a flatbed scanner.
+I used dip pens (Sailor Hocoro and Kakimori with a stainless steel nib) and painbrushes (Dynasty Black Silver and some random plastic brushes from Flax) to create the swatches. I scanned the images on a flatbed scanner.
 
 The samples were collected from Van Ness; Pen Chalet; Goulet Pens; the freebie shelf at Pen Boutique in Columbia, Maryland; and various pen friends.
 ___
