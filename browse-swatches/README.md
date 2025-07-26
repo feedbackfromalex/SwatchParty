@@ -5,4 +5,6 @@ coverY: 0
 
 # Browse Swatches
 
-[Swatches 1-60](swatches-1-60.md)
+[View swatches in batches](view-swatches-in-batches.md)
+
+[View individual swatches](view-individual-swatches/)
