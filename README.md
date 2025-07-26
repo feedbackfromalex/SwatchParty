@@ -22,3 +22,5 @@ The samples were collected from Van Ness; Pen Chalet; Goulet Pens; the freebie s
 ___
 ### Acknowledgements ###
 Endless thanks goes to Mark K., for getting me sucked into fountain pens in the first place, and Tamao, for hosting swatch parties and providing me with so much ink!
+___
+[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
