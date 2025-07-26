@@ -26,10 +26,10 @@ Search my collection of 287 ink swatches. Open the images in a separate tab or w
 
 You can:
 
-* [Search by ink name](SearchByInkName.md)
-* [Search by ink brand](SearchByInkBrand.md)
-* [Search by color](SearchByColorCategory.md)
-* [Browse individual swatches](SearchBySwatchNumber.md)
+* [Search by ink name](searchbyinkname.md)
+* [Search by ink brand](searchbyinkbrand.md)
+* [Search by color](searchbycolorcategory.md)
+* [Browse individual swatches](browse-swatches/)
 
 ***
 
@@ -37,11 +37,11 @@ You can:
 
 All the swatches included in this project were made on Col-o-ring swatch cards, with the exception of the following, which were made on Bee Super Deluxe mixed media paper:
 
-* [Bobtail Squid Green](SearchSwatches/133.png)
-* [Golden Gate Bridge](SearchSwatches/55.png)
-* [Green Tea](SearchSwatches/132.png)
-* [San Francisco Bay](SearchSwatches/167.png)
-* [Viceroy Butterfly Orange](SearchSwatches/64.png)
+* [Bobtail Squid Green](https://github.com/feedbackfromalex/SwatchParty/blob/main/SearchSwatches/133.png)
+* [Golden Gate Bridge](https://github.com/feedbackfromalex/SwatchParty/blob/main/SearchSwatches/55.png)
+* [Green Tea](https://github.com/feedbackfromalex/SwatchParty/blob/main/SearchSwatches/132.png)
+* [San Francisco Bay](https://github.com/feedbackfromalex/SwatchParty/blob/main/SearchSwatches/167.png)
+* [Viceroy Butterfly Orange](https://github.com/feedbackfromalex/SwatchParty/blob/main/SearchSwatches/64.png)
 
 I used dip pens (Sailor Hocoro and Kakimori with a stainless steel nib) and painbrushes (Dynasty Black Silver and some random plastic brushes from Flax) to create the swatches. I scanned the images on a flatbed scanner.
 

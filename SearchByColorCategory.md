@@ -76,11 +76,11 @@
 |Gray/Black            |[King Lear](SearchSwatches/4.png)                                |Wearingeul|4             |
 |Gray/Black            |[Kiwaguro](SearchSwatches/17.png)                                 |Sailor|17            |
 |Gray/Black            |[Macbeth](SearchSwatches/242.png)                                  |Wearingeul|242           |
-|Gray/Black            |[Mexican Hens](SearchSwatches/2.png)                             |Ink Institute|2             |
+|Gray/Black            |[Mexican Hens]{% file src="../../.gitbook/assets/2 (3).png" %}                             |Ink Institute|2             |
 |Gray/Black            |[Moonbeam](SearchSwatches/233.png)                                 |Diamine|233           |
 |Gray/Black            |[Onyx](SearchSwatches/13.png)                                     |Pelikan Edelstein|13            |
 |Gray/Black            |[Onyx Black](SearchSwatches/21.png)                               |Diamine|21            |
-|Gray/Black            |[Pebble Stone](SearchSwatches/1.png)                             |Octopus Fluids|1             |
+|Gray/Black            |[Pebble Stone]({% file src="../../.gitbook/assets/1 (3).png" %})                             |Octopus Fluids|1             |
 |Gray/Black            |[Perle Noire](SearchSwatches/16.png)                             |Herbin|16            |
 |Gray/Black            |[Rays of Light](SearchSwatches/198.png)                            |Tono & Lims|198           |
 |Gray/Black            |[Silver Grey](SearchSwatches/6.png)                              |De Atramentis|6             |
