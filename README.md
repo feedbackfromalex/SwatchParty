@@ -8,6 +8,7 @@ You can:
 * [Search by ink name](SearchByInkName.md)
 * [Search by ink brand](SearchByInkBrand.md)
 * [Search by color](SearchByColorCategory.md)
+* [Browse batches of swatches](SwatchPages)
 * [Browse individual swatches](SearchSwatches)
 
 ***
