@@ -5,10 +5,10 @@ Search my collection of 287 ink swatches. Open the images in a separate tab or w
 
 You can:
 
-* [Search by ink name](searchbyinkname.md)
-* [Search by ink brand](searchbyinkbrand.md)
+* [Search by ink name](SearchByInkName.md)
+* [Search by ink brand](SearchByInkBrand.md)
 * [Search by color](searchbycolorcategory.md)
-* [Browse individual swatches](browse-swatches/)
+* [Browse individual swatches](SearchSwatches)
 
 ***
 
