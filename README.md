@@ -1,6 +1,23 @@
 ---
 cover: .gitbook/assets/SwatchImage1 (1).png
 coverY: -148.33444816053512
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # SwatchParty
