@@ -76,7 +76,7 @@
 |Gray/Black            |[King Lear](SearchSwatches/4.png)                                |Wearingeul|4             |
 |Gray/Black            |[Kiwaguro](SearchSwatches/17.png)                                 |Sailor|17            |
 |Gray/Black            |[Macbeth](SearchSwatches/242.png)                                  |Wearingeul|242           |
-|Gray/Black            |[Mexican Hens](SearchSwatches/2.png)                             |Ink Institute|2             |
+|Gray/Black            |[Mexican Hens]{% file src="../../.gitbook/assets/2 (3).png" %}                             |Ink Institute|2             |
 |Gray/Black            |[Moonbeam](SearchSwatches/233.png)                                 |Diamine|233           |
 |Gray/Black            |[Onyx](SearchSwatches/13.png)                                     |Pelikan Edelstein|13            |
 |Gray/Black            |[Onyx Black](SearchSwatches/21.png)                               |Diamine|21            |
