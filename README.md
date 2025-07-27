@@ -1,5 +1,5 @@
 
-# SwatchParty
+# Swatch Party
 
 Browse my collection of 287 ink swatches. Open the images in a separate tab or window for easier comparison.
 
