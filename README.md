@@ -1,7 +1,7 @@
 
 # SwatchParty
 
-Search my collection of 287 ink swatches. Open the images in a separate tab or window for easier comparison.
+Browse my collection of 287 ink swatches. Open the images in a separate tab or window for easier comparison.
 
 You can:
 
