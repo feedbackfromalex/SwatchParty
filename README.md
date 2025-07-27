@@ -9,7 +9,6 @@ You can:
 * [Browse by ink brand](SearchByInkBrand.md)
 * [Browse by color](SearchByColorCategory.md)
 * [Browse batches of swatches](SwatchPages)
-* [Browse individual swatches](SearchSwatches)
 
 ***
 
